@@ -1,4 +1,0 @@
-list = ['Apple','Banana','Mango']
-
-for i in list:
-    print(i)
